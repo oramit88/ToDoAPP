@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OrAmitToDoAPP</string>
+    <string name="edit_message">Enter a task</string>
+</resources>
